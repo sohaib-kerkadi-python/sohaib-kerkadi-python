@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Software developer working on Python projects and building websites with HTML and CSS , focused on continuous learning and skill improvement .
 
 
